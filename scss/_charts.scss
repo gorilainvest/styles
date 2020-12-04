@@ -49,22 +49,31 @@
 
   .series {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 
     color: map-get($neutral-colors, 'dark');
+    
+    border-top: 1px solid map-get($neutral-colors, 'dark');
   }
 
   .series .serie {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: left;
+    width: 100%;
     padding: 0 10px;
+    padding: 5px;
 
-    border-left: 1px solid map-get($neutral-colors, 'dark');
   }
 
   /* stylelint-disable selector-max-compound-selectors */
   .series .serie .serie-title {
-    color: $dark-gray;
+    align-self: center;
+
+    color: $base-background;
 
     text-align: center;
     
@@ -83,8 +92,9 @@
   }
 
   .series .serie .serie-percent .percent-number {
-    margin-left: 5px;
+    margin: 0 5px;
   }
+
   /* stylelint-enable selector-max-compound-selectors */
 
   .series .serie:first-child {
@@ -92,7 +102,7 @@
   }
 }
 
-$sm-size: 6px;
+$sm-size: 8px;
 $md-size: 12px;
 $lg-size: 18px;
 
@@ -116,6 +126,14 @@ $lg-size: 18px;
     width: $sm-size;
     height: $sm-size;
   }
+}
+
+.positive-arrow-text {
+  color: $positive;
+}
+
+.negative-arrow-text {
+  color: $negative;
 }
 
 .positive-arrow {
