@@ -7,6 +7,7 @@ export default {
     MediumGray: '#cacbcc',
     VeryLightGray: '#dedede',
     BaseBackground: '#f1f1f1',
+    BackgroundSecondary: '#fafafa',
     Lightbox: 'rgba(0, 0, 0, 0.5)',
     GorilaPrimary: '#10c0c6',
     GorilaSecondary: '#4dde90',
