@@ -1,0 +1,142 @@
+// MAIN COLORS
+.gor-color--gorila-primary {
+  filter: brightness(0) saturate(100%) invert(52%) sepia(96%) saturate(411%) hue-rotate(133deg) brightness(98%) contrast(91%);
+}
+
+.gor-color--gorila-secondary {
+  filter: brightness(0) saturate(100%) invert(75%) sepia(40%) saturate(622%) hue-rotate(91deg) brightness(94%) contrast(90%);
+}
+
+.gor-color--fixed-income-primary {
+  filter: brightness(0) saturate(100%) invert(50%) sepia(60%) saturate(5952%) hue-rotate(236deg) brightness(94%) contrast(94%);
+}
+
+.gor-color--fixed-income-secondary {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(67%) saturate(1327%) hue-rotate(223deg) brightness(102%) contrast(91%);
+}
+
+.gor-color--multimarket-primary {
+  filter: brightness(0) saturate(100%) invert(74%) sepia(22%) saturate(5293%) hue-rotate(140deg) brightness(102%) contrast(91%);
+}
+
+.gor-color--multimarket-secondary {
+  filter: brightness(0) saturate(100%) invert(75%) sepia(68%) saturate(696%) hue-rotate(154deg) brightness(101%) contrast(101%);
+}
+
+.gor-color--stocks-primary {
+  filter: brightness(0) saturate(100%) invert(42%) sepia(87%) saturate(2741%) hue-rotate(313deg) brightness(96%) contrast(94%);
+}
+
+.gor-color--stocks-secondary {
+  filter: brightness(0) saturate(100%) invert(54%) sepia(37%) saturate(1371%) hue-rotate(298deg) brightness(102%) contrast(94%);
+}
+
+.gor-color--currency-primary {
+  filter: brightness(0) saturate(100%) invert(83%) sepia(44%) saturate(2642%) hue-rotate(342deg) brightness(105%) contrast(98%);
+}
+
+.gor-color--currency-secondary {
+  filter: brightness(0) saturate(100%) invert(72%) sepia(82%) saturate(303%) hue-rotate(351deg) brightness(103%) contrast(102%);
+}
+
+.gor-color--cash-primary {
+  filter: brightness(0) saturate(100%) invert(25%) sepia(18%) saturate(1077%) hue-rotate(167deg) brightness(96%) contrast(91%);
+}
+
+.gor-color--cash-secondary {
+  filter: brightness(0) saturate(100%) invert(40%) sepia(14%) saturate(1504%) hue-rotate(167deg) brightness(87%) contrast(81%);
+}
+
+.gor-color--tangible-primary {
+  filter: brightness(0) saturate(100%) invert(53%) sepia(15%) saturate(6686%) hue-rotate(335deg) brightness(91%) contrast(92%);
+}
+
+.gor-color--tangible-secondary {
+  filter: brightness(0) saturate(100%) invert(48%) sepia(80%) saturate(1801%) hue-rotate(335deg) brightness(92%) contrast(91%);
+}
+
+.gor-color--offshore-primary {
+  filter: brightness(0) saturate(100%) invert(65%) sepia(29%) saturate(6672%) hue-rotate(319deg) brightness(103%) contrast(101%);
+}
+
+.gor-color--offshore-secondary {
+  filter: brightness(0) saturate(100%) invert(66%) sepia(42%) saturate(2218%) hue-rotate(311deg) brightness(105%) contrast(103%);
+}
+
+.gor-color--benchmark-primary {
+  filter: brightness(0) saturate(100%) invert(47%) sepia(5%) saturate(56%) hue-rotate(131deg) brightness(98%) contrast(93%);
+}
+
+.gor-color--benchmark-secondary {
+  filter: brightness(0) saturate(100%) invert(74%) sepia(6%) saturate(80%) hue-rotate(156deg) brightness(89%) contrast(90%);
+}
+
+.gor-color--positive {
+  filter: brightness(0) saturate(100%) invert(61%) sepia(30%) saturate(948%) hue-rotate(45deg) brightness(96%) contrast(93%);
+}
+
+.gor-color--negative {
+  filter: brightness(0) saturate(100%) invert(14%) sepia(60%) saturate(3550%) hue-rotate(345deg) brightness(155%) contrast(94%);
+}
+
+.gor-color--buy-primary {
+  filter: brightness(0) saturate(100%) invert(56%) sepia(99%) saturate(1716%) hue-rotate(139deg) brightness(99%) contrast(87%);
+}
+
+.gor-color--buy-secondary {
+  filter: brightness(0) saturate(100%) invert(78%) sepia(35%) saturate(724%) hue-rotate(88deg) brightness(92%) contrast(90%);
+}
+
+.gor-color--sell-primary {
+  filter: brightness(0) saturate(100%) invert(58%) sepia(81%) saturate(5142%) hue-rotate(324deg) brightness(90%) contrast(116%);
+}
+
+// GRAY SCALE
+.gor-color--black {
+  filter: brightness(0) saturate(100%);
+}
+
+.gor-color--extra-dark-gray {
+  filter: brightness(0) saturate(100%) invert(13%) sepia(70%) saturate(0%) hue-rotate(193deg) brightness(91%) contrast(90%);
+}
+
+.gor-color--dark-gray {
+  filter: brightness(0) saturate(100%) invert(65%) sepia(5%) saturate(269%) hue-rotate(131deg) brightness(86%) contrast(85%);
+}
+
+.gor-color--medium-gray {
+  filter: brightness(0) saturate(100%) invert(88%) sepia(7%) saturate(33%) hue-rotate(169deg) brightness(89%) contrast(100%);
+}
+
+.gor-color--very-light-gray {
+  filter: brightness(0) saturate(100%) invert(97%) sepia(6%) saturate(140%) hue-rotate(155deg) brightness(112%) contrast(74%);
+}
+
+.gor-color--base-background {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(2%) saturate(3878%) hue-rotate(196deg) brightness(117%) contrast(89%);
+}
+
+.gor-color--background-secondary {
+  filter: brightness(0) saturate(100%) invert(98%) sepia(97%) saturate(10%) hue-rotate(232deg) brightness(103%) contrast(96%);
+}
+
+.gor-color--white {
+  filter: brightness(0) saturate(100%) invert(100%);
+}
+
+.gor-color--neutral-colors-dark {
+  filter: brightness(0) saturate(100%) invert(36%) sepia(6%) saturate(370%) hue-rotate(131deg) brightness(90%) contrast(87%);
+}
+
+.gor-color--neutral-colors-light {
+  filter: brightness(0) saturate(100%) invert(99%) sepia(10%) saturate(220%) hue-rotate(280deg) brightness(86%) contrast(93%);
+}
+
+.gor-color--neutral-colors-lighter {
+  filter: brightness(0) saturate(100%) invert(99%) sepia(3%) saturate(837%) hue-rotate(198deg) brightness(117%) contrast(88%);
+}
+
+// BUTTON
+.gor-color--secondary-button {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(10%) saturate(175%) hue-rotate(131deg) brightness(87%) contrast(86%);
+}
