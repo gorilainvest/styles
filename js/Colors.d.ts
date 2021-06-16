@@ -28,6 +28,8 @@ declare namespace _default {
     export const OffshoreSeconday: string;
     export const CashPrimary: string;
     export const CashSecondary: string;
+    export const PensionPrimary: string;
+    export const PensionSecondary: string;
     export const Positive: string;
     export const Negative: string;
     export const BuyPrimary: string;
@@ -35,7 +37,15 @@ declare namespace _default {
     export const SellPrimary: string;
     export const SellSecondary: string;
     export const PrimaryButton: string;
+    export const PrimaryButtonFontColor: string;
+    export const PrimaryButtonHover: string;
     export const SecondaryButton: string;
+    export const SecondaryButtonFontColor: string;
+    export const SecondaryButtonHover: string;
+    export const TertiaryButton: string;
+    export const TertiaryButtonFontColor: string;
+    export const TertiaryButtonHover: string;
     export const DisabledButton: string;
+    export const DisabledButtonFontColor: string;
 }
 export default _default;
