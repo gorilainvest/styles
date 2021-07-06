@@ -25,7 +25,7 @@ declare namespace _default {
     export const TangiblePrimary: string;
     export const TangibleSecondary: string;
     export const OffshorePrimary: string;
-    export const OffshoreSeconday: string;
+    export const OffshoreSecondary: string;
     export const CashPrimary: string;
     export const CashSecondary: string;
     export const PensionPrimary: string;

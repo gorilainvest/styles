@@ -22,7 +22,7 @@ export default {
   TangiblePrimary: '#d15130',
   TangibleSecondary: '#e05f3e',
   OffshorePrimary: '#ff6b6b',
-  OffshoreSeconday: '#ff8080',
+  OffshoreSecondary: '#ff8080',
   CashPrimary: '#314a61',
   CashSecondary: '#456888',
   PensionPrimary: '#e7b65a',
