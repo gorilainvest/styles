@@ -10,6 +10,15 @@ mat-checkbox {
     border: 1px solid $extra-dark-gray;
   }
 
+  .mat-checkbox-disabled .mat-checkbox-background {
+    border: 1px solid $dark-gray;
+  }
+
+  /* stylelint-disable-next-line selector-max-compound-selectors */
+  .mat-checkbox-disabled .mat-checkbox-layout .mat-checkbox-label {
+    color: $medium-gray;
+  }
+
   .mat-checkbox-background,
   .mat-checkbox-frame {
     border-radius: 7px;
