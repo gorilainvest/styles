@@ -1,31 +1,31 @@
-@import '~@angular/material/theming';
+
+@import '@angular/material/theming';
 @import '../colors';
 
-// generate in http://mcg.mbitson.com/ with #11c0c5
 $mat-gorila-primary: (
-  50 : #e2f7f8,
-  100 : #b8ecee,
-  200 : #88e0e2,
-  300 : #58d3d6,
-  400 : #35c9ce,
-  500 : #11c0c5,
-  600 : #0fbabf,
-  700 : #0cb2b8,
-  800 : #0aaab0,
-  900 : #059ca3,
-  A100 : #cffcff,
-  A200 : #9cfaff,
-  A400 : #69f7ff,
-  A700 : #4ff6ff,
+  50 : #e7edff,
+  100 : #c2d1ff,
+  200 : #99b3ff,
+  300 : #7094ff,
+  400 : #527dff,
+  500 : #36f,
+  600 : #2e5eff,
+  700 : #2753ff,
+  800 : #2049ff,
+  900 : #1438ff,
+  A100 : #fff,
+  A200 : #fbfbff,
+  A400 : #c8ceff,
+  A700 : #aeb8ff,
   contrast: (
     50 : #000,
     100 : #000,
     200 : #000,
     300 : #000,
-    400 : #000,
-    500 : #000,
-    600 : #000,
-    700 : #000,
+    400 : #fff,
+    500 : #fff,
+    600 : #fff,
+    700 : #fff,
     800 : #fff,
     900 : #fff,
     A100 : #000,
@@ -34,6 +34,7 @@ $mat-gorila-primary: (
     A700 : #000,
   )
 );
+
 $mat-gorila-cash-primary: (
   50 : #e6e9ec,
   100 : #c1c9d0,
