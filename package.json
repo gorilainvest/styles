@@ -39,7 +39,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@angular/material": "^10.1.0",
+    "@angular/material": "^8.2.3",
     "sass": "^1.56.1"
   }
 }
